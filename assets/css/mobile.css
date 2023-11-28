@@ -170,14 +170,12 @@
     border-radius: 4px;
     border: none;
     text-align: center;
-    background-color: var(--color-input);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   }
 
   footer {
     display: flex;
     flex-direction: row;
-    margin-left: var(--margin-info);
     align-items: center;
     justify-content: center;
     padding: 2rem;
