@@ -125,7 +125,7 @@ p {
 
 input::placeholder {
   font-family: Arial;
-  color: var(--color-dark-greygrey);
+  color: var(--color-dark-grey);
   font-size: var(--font-size-logo1-ph);
 }
 
