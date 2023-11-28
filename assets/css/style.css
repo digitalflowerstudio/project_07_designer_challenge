@@ -496,7 +496,7 @@ form input {
 }
 
 #button1:hover {
-  background-color: var(--color-grey);
+  background-color: rgb(190, 68, 88);
 }
 
 /* Section Footer */
@@ -507,6 +507,7 @@ footer {
   margin-left: var(--margin-info);
   align-items: center;
   justify-content: center;
+  padding: 0.5rem;
 }
 
 footer img {
