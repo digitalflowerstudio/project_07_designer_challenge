@@ -50,13 +50,11 @@
       "design share";
     justify-items: center;
     align-items: center;
-    width: 100%;
+    width: auto;
     height: auto;
     padding: 2rem;
-    margin-bottom: 4rem;
     gap: 5rem;
-    margin-left: 0rem;
-    margin-right: 0rem;
+    margin: 2rem;
   }
 
   .startChallenge::before {
